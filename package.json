@@ -1,0 +1,17 @@
+{
+  "name": "hacker-next",
+  "version": "1.0.0",
+  "description": "A Hacker News Clone",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "Karan",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
